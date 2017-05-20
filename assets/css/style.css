@@ -1,0 +1,63 @@
+    body {
+        background-color: #d3d3d3;
+    }
+    
+    .wrapper {
+        width: 1300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .buttons button {
+        color: white;
+        background-color: #24b879;
+        font-weight: bold;
+        font-size: 1.3em;
+        margin: 5px;
+        margin-top: 25px;
+        cursor: pointer;
+        text-shadow: 1px 1px 2px #000;
+        border-radius: 6px;
+    }
+    
+    #gif-form {
+        margin-top: 100px;
+        display: block;
+        float: right;
+        width: 500px;
+    }
+    
+    #gif-input {
+        width: 400px;
+        margin-top: 5px;
+    }
+    
+    h2 {
+        font-size: 5em;
+        text-shadow: -1px -1px;
+    }
+    
+    .gif-div {
+        border: none;
+        float: left;
+        margin: 5px;
+        display: inline;
+    }
+    
+    .GIF {
+        margin-top: 100px;
+        width: 60%;
+    }
+    
+    #add-gif {
+        color: white;
+        background-color: #24b879;
+        font-weight: bold;
+        font-size: 1.3em;
+        margin-top: 5px;
+        cursor: pointer;
+        text-shadow: 1px 1px 2px #000;
+        border-radius: 6px;
+    }
+    
+    

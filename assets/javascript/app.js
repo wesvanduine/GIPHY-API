@@ -63,7 +63,7 @@ function GIFAssign() {
                 imageGIF.attr("src", response.data[i].images.downsized.url)
                 imageGIF.addClass("gif");
                 gifDiv.append(imageGIF);
-                gifDiv.append(pRating);
+                gifDiv.prepend(pRating);
                 $(".GIF").append(gifDiv);
             };
 
